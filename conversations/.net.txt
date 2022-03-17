@@ -1,0 +1,49 @@
+[5:08 PM] Michael Antony Samy Gnanasudnar
+    class MyCustomClass
+{​​​
+static MyCustomClass()
+{​​​
+Console.WriteLine("Message from Static class");
+}​​​
+
+static public void myFunction()
+{​​​
+Console.WriteLine("Message from My Function inside custom class");
+}​​​
+}​​​
+class MyCustomClass1
+{​​​
+public MyCustomClass1()
+{​​​
+Console.WriteLine("Message from Constructor");
+}​​​
+public MyCustomClass1(String name)
+{​​​
+Console.WriteLine(name);
+}​​​
+ public MyCustomClass1(String name,String lname)
+{​​​
+Console.WriteLine(name+lname);
+}​​​
+public MyCustomClass1(int name, int lname)
+{​​​
+Console.WriteLine(name + lname);
+}​​​
+public void myFunction()
+{​​​
+Console.WriteLine("Message from My Function inside custom class1");
+}​​​
+ ~MyCustomClass1()
+{​​​
+Console.WriteLine("Class Ended");
+}​​​
+}​​​
+class Program
+{​​​
+static void Main(string[] args)
+{​​​
+MyCustomClass.myFunction();
+MyCustomClass1 myCustomClass1 = new MyCustomClass1(4,3);
+myCustomClass1.myFunction();
+}​​​
+}​​​

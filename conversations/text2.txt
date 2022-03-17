@@ -1,0 +1,21 @@
+Mr. Smith (Secretary): Hello, Diamonds Galore, this is Peter speaking. How may I be of help to you today
+Ms. Anderson: Yes, this is Ms. Janice Anderson calling. May I speak to Mr. Franks, please?
+Mr. Smith: I'm afraid Mr. Franks is out of the office at the moment. Would you like me to take a message?
+Ms. Anderson: Uhm...actually, this call is rather urgent. We spoke yesterday about a delivery problem that Mr. Franks mentioned. Did he leave any information with you?
+Mr. Smith: As a matter of fact, he did. He said that a representative from your company might be calling. He also asked me to ask you a few questions...
+Ms. Anderson: Great, I'd love to see this problem resolved as quickly as possible.
+Mr. Smith: Well, we still haven't received the shipment of earrings that was supposed to arrive last Tuesday.
+Ms. Anderson: Yes, I'm terribly sorry about that. In the meantime, I've spoken with our delivery department and they assured me that the earrings will be delivered by tomorrow morning.
+Mr. Smith: Excellent, I'm sure Mr. Franks will be pleased to hear that.
+Ms. Anderson: Yes, the shipment was delayed from France. We weren't able to send it along until this morning.
+Mr. Smith: I see. Mr. Franks also wanted to schedule a meeting with you later this week.
+Ms. Anderson: Certainly, what is he doing on Thursday afternoon?
+Mr. Smith: I'm afraid he's meeting with some clients out of town. How about Thursday morning?
+Ms. Anderson: Unfortunately, I'm seeing someone else on Thursday morning. Is he doing anything on Friday morning?
+Mr. Smith: No, it looks like he's free then.
+Ms. Anderson: Great, should I come by at 9?
+Mr. Smith: Well, he usually holds a staff meeting at 9. It only lasts a half-hour or so. How about 10?
+Ms. Anderson: Yes, 10 would be great.
+Mr. Smith: OK, I'll schedule that. Ms. Anderson at 10, Friday Morning...Is there anything else I can help you with?
+Ms. Anderson: No, I think that's everything. Thank you for your help...Goodbye.
+Mr. Smith: Goodbye.

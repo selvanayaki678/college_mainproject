@@ -1,0 +1,24 @@
+Shopkeeper: Welcome to our shopping mall, sir.
+
+Customer: Thank you.
+
+Shopkeeper: How can I help you, sir?
+
+Customer: I want a good watch for a gift.
+
+Shopkeeper: Ladies or gents? What type do you want?
+
+Customer: A lady’s watch, please. Do you have any?
+
+Shopkeeper: Please have a look at this showcase. You can see all kinds of ladies watch.
+
+Customer: Thank you. Please show me the forth once.
+
+Shopkeeper: Of course, here it is. It is one of the best quality watches, sir.
+
+Customer: Do you have any warranty  watches?
+
+Shopkeeper: No sir.Warranty watch arrive to our mall tomorrow at 12Am sir .Please can you come tomorrow? sir.
+
+Customer:Okay. 
+

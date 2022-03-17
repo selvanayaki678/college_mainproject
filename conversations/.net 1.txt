@@ -1,0 +1,39 @@
+
+    String name = " michael ";
+String middleName = "Antony";
+
+ Console.WriteLine("To Uppercase "+name.ToUpper());
+Console.WriteLine("TO Lowercase " + middleName.ToLower());
+Console.WriteLine("Without using trim " + (name.ToUpper()+middleName.ToLower()));
+Console.WriteLine("With using TrimStart " + name.TrimStart()+middleName.Trim());
+Console.WriteLine("With using TrimStart " + name.TrimEnd() + middleName.Trim());
+Console.WriteLine("With using Trim " + name.Trim() + middleName.Trim());
+ String msg = "Welcome to Mahathi,Info Tech";
+char[] arrayMsg = msg.ToCharArray();
+ //for (int i = 0; i < arrayMsg.Length; i++)
+// Console.WriteLine(arrayMsg[i]);
+ String[] msgArray = msg.Split(" ");
+//for (int i = 0; i < msgArray.Length; i++)
+// Console.WriteLine(msgArray[i]);
+
+ Console.WriteLine("Starts With " + msg.StartsWith("Welcome"));
+Console.WriteLine("Starts With " + msg.EndsWith("welcom"));
+Console.WriteLine("Contains " + msg.Contains("Mahathi"));
+ Console.WriteLine("SubString 1 " + msg.Substring(3));
+Console.WriteLine("SubString 2 " + msg.Substring(3,8));
+ Console.WriteLine("Replace Example " + msg.Replace("Welcome", "Heartly Welcome"));
+ Console.WriteLine("Index of "+ msg.IndexOf("e"));
+Console.WriteLine("Last Index of " + msg.LastIndexOf("e"));
+ Console.WriteLine("GetHashCode " + msg.GetHashCode());
+ String pwd = "1234", rpwd = "1234";
+Console.WriteLine("Compare to " + pwd.CompareTo(rpwd));
+Console.WriteLine("Equals" + pwd.Equals(rpwd));
+ Console.WriteLine("Remove " + msg.Remove(4));
+Console.WriteLine("Remove " + msg.Remove(4,5));
+ Console.WriteLine("Concat " + string.Concat(name, middleName));
+ String myEmail = "michael.antony@hotmail.com";
+ int pos = myEmail.IndexOf("@");
+ myEmail = myEmail.Substring(pos + 1);
+pos = myEmail.IndexOf(".");
+
+Console.WriteLine(myEmail.Substring(0, pos));
